@@ -73,10 +73,11 @@ public class Actions {
 
     public void fillInList(JList<String> tfProductList, Variables vars) {
 
+
         String[] myList = new String[vars.getInList().size()];
         int index = 0;
-        for (Product prod : vars.getInList()) {
-            myList[index] = prod.getName() + " id=" + Long.toString(prod.getId());
+        for (Product prod : vars.venMachine.getProducts()) {
+            myList[index] = "place=" + Long.toString(prod.getPlace()) + " " + prod.getName()+ " " + prod.getPrice();
             index++;
         }
         tfProductList.setListData(myList);

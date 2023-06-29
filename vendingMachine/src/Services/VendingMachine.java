@@ -2,6 +2,8 @@ package Services;
 
 import java.util.List;
 
+import javax.swing.JLabel;
+
 import Domen.Product;
 
 public class VendingMachine {
@@ -21,14 +23,17 @@ public class VendingMachine {
         return assort;
     }
 
-    public void buyProduct(Product p, int price) {
-        if (assort.contains(p) && holder.getBalance() >= price) {
-            if (dispenser.dispense(price)) {
+    public void buyProduct(Product p, JLabel lbMessage) {
+        if (assort.contains(p)) {
+            if (dispenser.dispense(p.getPrice())) {
                 releaseProduct(p, holder);
-                display.print("You have successfully bought " + p.getName() + ".");
-            } 
+                lbMessage.setText("Пи Па По Пу операция прошла успешно!!! " + p.getName() + ".");
+            } else
+            {
+                 lbMessage.setText("Денег нехватат!!!");
+            }
         } else {
-            display.print("Product not available or insufficient balance.");
+             lbMessage.setText("Денет такого товара!!!");
         }
     }
 

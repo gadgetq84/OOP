@@ -18,8 +18,6 @@ public class App {
         // assort.add(item4);
         // assort.add(item5);
 
-
-
         MainFrame myFrame = new MainFrame();
         myFrame.initialize();
     
