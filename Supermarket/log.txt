@@ -1,0 +1,138 @@
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Boris клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Boris клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер опечален и хочет вернуть заказ
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент добавлен в очередь на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер опечален и хочет вернуть заказ
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент добавлен в очередь на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент добавлен в очередь 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд6 - По акции -Три по цене четырех клиент пришел в магазин 
+июл. 03, 2023 1:20:51 AM Classes.Market takeInQueue
+INFO: Сигизмунд6 - По акции -Три по цене четырех. Клиент не добавлен в очередь превышен лимит
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Boris клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент сделал заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент сделал заказ на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент сделал заказ на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент получил свой заказ 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент вернул заказ
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент вернул заказ
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Boris клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент ушел из очереди 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Boris клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: prezident клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Tax audit клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд1 - По акции -Три по цене четырех клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд2 - По акции -Три по цене четырех клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд3 - По акции -Три по цене четырех клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд4 - По акции -Три по цене четырех клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Сигизмунд5 - По акции -Три по цене четырех клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент ушел из очереди на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент ушел из очереди на возврат
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Sergey Nikolay - пенсионер клиент ушел из магазина 
+июл. 03, 2023 1:20:51 AM Classes.Logging setInfoLog
+INFO: Denis Egorov - пенсионер клиент ушел из магазина 
