@@ -10,19 +10,6 @@ public class Student extends Person implements Comparable<Student> {
         this.id = id;
     }
 
-    // private int age;
-    // private String name;
-
-    
-    
-
-    // public int getAge() {
-    //     return age;
-    // }
-
-    // public String getName() {
-    //     return name;
-    // }
 
     public int getId() {
         return id;
@@ -35,7 +22,7 @@ public class Student extends Person implements Comparable<Student> {
 
     @Override
     public String toString() {
-        return "age=" + super.getAge() + ", name=" + super.getName() + ", id=" + id +" ";
+        return "Students [age=" + super.getAge() + ", name=" + super.getName() + ", id=" + id + "]";
     }
 
     @Override
